@@ -22,7 +22,7 @@ title: Miguel Almeida
 email: miguelbalmeida-remover-esta-parte@remover-isto-tambem-gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Um blogue sobre ciência, dados, e ciência de dados. Aplicados aos mais variados temas.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 domain: miguelbalmeida.github.io
 url: "https://miguelbalmeida.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
