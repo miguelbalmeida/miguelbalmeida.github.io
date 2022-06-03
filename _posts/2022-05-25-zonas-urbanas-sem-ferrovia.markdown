@@ -9,7 +9,7 @@ A mobilidade na Área Metropolitana de Lisboa (AML) tem sido um tema em debate n
 
 Apesar de ser necessário o debate político sobre estes temas, não devemos esquecer que estas decisões são também altamente técnicas e devem ser fundamentadas com dados. Nesta análise, o objectivo é ajudar a informar o debate sobre mobilidade na AML, procurando áreas de elevada densidade residencial e onde se demora muito tempo a pé até uma estação de metro/comboio.
 
-# Porquê só comboio e metro? E os autocarros?
+# Porquê só comboio e metro?
 Não é por acaso que tantas cidades de média ou grande dimensão apostam em comboios, elétricos de superfície, ou metropolitano subterrâneo. A tabela abaixo apresenta o número máximo de pessoas que passam por hora numa faixa de 3 metros de largura, usando números retirados da página 14 do [Global Street Design Guide][gsdg]. 
 
 | Tipo de faixa (largura: 3 metros) | Pessoas por hora |
@@ -25,10 +25,14 @@ Alguns destes números podem não ser intuitivos - por exemplo, um passeio com 3
 
 É claro que em certas circunstâncias se justifica a menor capacidade do transporte em carro privado, por exemplo na rede de estradas nacionais e de auto-estradas. Não faz nenhum sentido pensar em substituir uma auto-estrada por passeios, porque nunca teremos 8000-9000 pessoas por hora interessadas em fazer Lisboa-Porto pela A1 a pé. No entanto, em meio urbano, a densidade de pessoas é maior e as velocidades médias de um automóvel são bastante mais baixas devido a cruzamentos, passadeiras, trânsito, etc. Nesse sentido, um passeio no centro de uma cidade frequentemente move mais pessoas que uma faixa para carros.
 
-Segundo esta tabela, o transporte em metro ligeiro de superfície consegue transportar, no mesmo espaço, cerca de 10 vezes mais pessoas por hora que o transporte feito em carros privados. Pegando num exemplo da própria AML, a capacidade da linha de Sintra é pelo menos de 16000 pessoas por hora. Isto porque cada comboio da linha de Sintra tem [capacidade para 1600 passageiros](https://sintranoticias.pt/2020/04/30/comboios-na-linha-de-sintra-a-circular-a-160-da-capacidade-maxima-permitida/), e à hora de ponta chegam a circular 10 comboios por hora nessa linha, isto num só sentido (basta consultar o [site da CP](https://www.cp.pt/passageiros/pt)). Para se mover o mesmo número de pessoas usando automóveis privados seria preciso um IC19 com 10 a 27 faixas de largura... para cada lado!
+Segundo esta tabela, o transporte em metro ligeiro de superfície consegue transportar, no mesmo espaço, cerca de 10 vezes mais pessoas por hora que o transporte feito em carros privados.
+
+## Exemplos da AML
+Pegando num exemplo da própria AML, a capacidade da linha de Sintra é pelo menos de 16000 pessoas por hora. Isto porque cada comboio da linha de Sintra tem [capacidade para 1600 passageiros](https://sintranoticias.pt/2020/04/30/comboios-na-linha-de-sintra-a-circular-a-160-da-capacidade-maxima-permitida/), e à hora de ponta chegam a circular 10 comboios por hora nessa linha, isto num só sentido (basta consultar o [site da CP](https://www.cp.pt/passageiros/pt)). Para se mover o mesmo número de pessoas usando automóveis privados seria preciso um IC19 com 10 a 27 faixas de largura... para cada lado!
 
 Um outro exemplo são os comboios do metropolitano de Lisboa, onde cada comboio tem uma capacidade de cerca de 1070 pessoas, segundo [este artigo da Wikipedia](https://pt.wikipedia.org/wiki/Material_circulante_do_Metropolitano_de_Lisboa#ML99) - assumindo 4 carruagens não motoras e 2 carruagens motoras por comboio - e chegam a passar a cada 4 minutos e 35 segundos na linha Azul, segundo a [página do próprio Metropolitano de Lisboa](https://www.metrolisboa.pt/viajar/horarios-e-frequencias/). Isto dá uma capacidade de cerca de 14000 pessoas por hora.
 
+## E os autocarros?
 Quanto aos autocarros, podem ter a vantagem de um menor investimento inicial e de maior flexibilidade caso se queira mudar a rota. No entanto, dada a ausência de canais dedicados (faixas BUS e semáforos que fiquem verdes para um autocarro sempre que este se aproxime), especialmente fora do município de Lisboa, terão de se misturar com o trânsito geral. Nesse caso, permitem sensivelmente duplicar o número de pessoas movidas por hora em relação a apenas carros (para 1000-2800), o que é bastante menos que multiplicá-lo por 10 ou mais como se consegue com canais ferroviários.
 
 Apesar destas vantagens do modo ferroviário dentro de áreas metropolitanas, não deixa de ser um modo que exige investimento elevado à cabeça, especialmente se for subterrâneo, e cujo traçado é difícil de mudar. É, portanto, importante decidir bem por onde ele deve passar, para que o investimento seja justificado.
