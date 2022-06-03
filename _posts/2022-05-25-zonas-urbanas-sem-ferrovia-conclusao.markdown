@@ -19,15 +19,21 @@ Seria igualmente importante analisar o desempenho de outras partes do sistema de
 
 # Detalhes técnicos
 Seria possível escolher à mão os quarteirões um a um para incluir nestas zonas, o que permitiria delimitar zonas mais densas ou com maior percentagem de população longe de estações. Optei ainda assim por usar freguesias porque:
-- É mais simples de explicar qual a área sob análise
-- Permite mais facilmente a quem lê saber quais os órgãos políticos que governam essa área (as Juntas de Freguesia e Câmaras Municipais correspondentes)
-- É menos arbitrário
+- É mais simples de explicar qual a área sob análise.
+- Permite mais facilmente a quem lê saber quais os órgãos políticos que governam essa área (as Juntas de Freguesia e Câmaras Municipais.correspondentes)
+- É menos arbitrário.
+
+Seria também possível corrigir, para as freguesias que incluem "quarteirões" sobre o rio Tejo, os valores da área respectiva. Optei por não o fazer pelas seguintes razões:
+- Alguns quarteirões incluem grandes áreas sobre o rio mas também algumas áreas terrestres, e não é possível separar uma da outra nos dados dos Censos.
+- O mesmo raciocínio justificaria outras correcções, como por exemplo retirar o quarteirão do aeroporto de Lisboa da freguesia dos Olivais. Se fossemos por aí, haveria um grande número de correcções algo arbitrárias a fazer.
 
 Os dados provisórios dos Censos 2021 foram obtidos através do [site do INE](http://mapas.ine.pt/download/index2021.phtml).
 
-Os tempos de deslocação a pé foram calculados usando o [Open Route Service][ors], que se baseia no [Open Street Map][osm]. O Open Street Map também foi usado para determinar a posição de cada estação ferroviária. Seria possível usar alternativas como o Google Maps, e a sua API de direcções, mas preferi optar por dados e programas abertos que qualquer pessoa pode consultar e até corrigir. Além disso, a API do Google Maps é paga.
+Os tempos de deslocação a pé foram calculados usando o [Open Route Service][ors], que se baseia no [Open Street Map][osm]. O Open Route Service permite pedir direcções no seu site, mas rapidamente chegamos ao limite diário quando tentamos o número de caminhos necessários para esta análise. Assim, optei por colocar a correr no meu computador uma cópia do Open Route Service que eles próprios disponibilizam [no seu Github](https://github.com/GIScience/openrouteservice). Isto permite-me calcular tantos caminhos a pé quanto eu queira, limitado apenas pelo poder computacional do meu computador.
 
-O tratamento de dados foi feito utilizando um computador pessoal e software Python. A maioria dos cálculos numéricos usaram [geopandas](https://geopandas.org/en/stable/) e os mapas foram feitos usando [Kepler.gl](https://kepler.gl/), um software aberto de visualização de dados geográficos feito pela Uber.
+O Open Street Map também foi usado para determinar a posição de cada estação ferroviária. Seria possível usar alternativas como o Google Maps, e a sua API de direcções, mas preferi optar por dados e programas abertos que qualquer pessoa pode consultar e até corrigir. Além disso, a API do Google Maps é paga.
+
+O tratamento de dados foi feito utilizando um computador pessoal e software Python. A maioria dos cálculos numéricos foram feitos com [geopandas](https://geopandas.org/en/stable/) e os mapas foram feitos usando [Kepler.gl](https://kepler.gl/), um software aberto de visualização de dados geográficos feito pela Uber.
 
 [gsdg]: https://globaldesigningcities.org/wp-content/uploads/guides/global-street-design-guide.pdf
 [metro2009]: https://pt.wikipedia.org/wiki/Metropolitano_de_Lisboa#Projetos_Anteriormente_Apresentados
