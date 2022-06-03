@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: Sobre mim / About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Sou um cientista de dados com uma grande paixão por mapas que ajudem a compreender cidades, mobilidade e sustentabilidade.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm a data scientist passionate about maps that help to understand cities, mobility and sustainability.
