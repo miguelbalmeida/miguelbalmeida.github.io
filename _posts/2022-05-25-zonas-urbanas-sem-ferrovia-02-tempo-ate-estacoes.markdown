@@ -16,9 +16,9 @@ Para esta análise olhei para as seguintes linhas ferroviárias, num total de 15
 - O Metro Sul do Tejo.
 
 Pegando no mapa da Parte 1, podemos agora adicionar informação sobre a proximidade a uma estação ferroviária. O processo é o seguinte:
-- O [Open Street Map][osm] diz-nos onde se localiza cada estação ferroviária.
+- O [Open Street Map](https://www.openstreetmap.org/) diz-nos onde se localiza cada estação ferroviária.
 - Para cada um dos 25915 quarteirões dos Censos, que estão no mapa da Parte 1, calculei o centróide, ou seja, o ponto central desse quarteirão.
-- Finalmente, usei o [Open Route Service][ors] para calcular o tempo necessário para ir a pé entre todos os centróides e todas as estações ferroviárias. Guardei, para cada quarteirão, a estação mais próxima e o tempo que se leva a pé até ela.
+- Finalmente, usei o [Open Route Service](https://openrouteservice.org/) para calcular o tempo necessário para ir a pé entre todos os centróides e todas as estações ferroviárias. Guardei, para cada quarteirão, a estação mais próxima e o tempo que se leva a pé até ela.
 
 Este último passo não é diferente do que o leitor provavelmente já fez usando aplicações como o Google Maps ou o Apple Maps, mas é automatizado. Isso permite o cálculo de tempos de deslocação a pé entre os 25915 quarteirões da AML e as 155 estações ferroviárias que mencionei em cerca de meia hora num computador moderno.
 
@@ -35,6 +35,4 @@ Rodando e fazendo "zoom" conseguimos ver no mapa várias zonas densamente povoad
 
 [gsdg]: https://globaldesigningcities.org/wp-content/uploads/guides/global-street-design-guide.pdf
 [metro2009]: https://pt.wikipedia.org/wiki/Metropolitano_de_Lisboa#Projetos_Anteriormente_Apresentados
-[osm]: [https://www.openstreetmap.org/]
-[ors]: [https://openrouteservice.org/]
 [ciclovias.pt]: [https://www.ciclovias.pt/?lat=38.57706&lng=-9.04511&z=14.52900000000001&m=r&l=16]
