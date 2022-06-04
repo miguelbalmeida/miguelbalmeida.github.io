@@ -50,7 +50,7 @@ Uma densidade populacional de 5753 pessoas por km2 é bastante elevada. Para ter
 
 A zona analisada, do município de Odivelas, ficaria portanto entre as linhas 12 e 13 desta tabela em termos de densidade populacional - mesmo a meio da tabela. No entanto, tirando as freguesias da Ajuda e de Belém (que serão analisadas também no futuro), é fácil ver que as freguesias de Lisboa têm sempre a grande maioria da população a menos de 20 minutos de uma estação ferroviária.
 
-Partes desta zona d Odivelas estão relativamente perto de estações do Metro de Lisboa, nomeadamente da linha Amarela (a leste) e da linha Azul (a sul). Mas é inegável que a maioria da população desta zona não usará o metro regularmente, mesmo que trabalhe ou estude perto de uma estação de metro, dado que as estações estão demasiado longe da sua residência. Não é portanto um acaso que o [plano de expansão do Metro de Lisboa de 2009][metro2009] incluísse expansões a servir esta zona, com prolongamento da linha Amarela.
+Partes desta zona de Odivelas estão relativamente perto de estações do Metro de Lisboa, nomeadamente da linha Amarela (a leste) e da linha Azul (a sul). Mas é inegável que a maioria da população desta zona não usará o metro regularmente, mesmo que trabalhe ou estude perto de uma estação de metro, dado que as estações estão demasiado longe da sua residência. Não é portanto um acaso que o [plano de expansão do Metro de Lisboa de 2009][metro2009] incluísse expansões a servir esta zona, com prolongamento da linha Amarela.
 
 A seguir olharemos para a zona Leste de Odiveias em conjunto com o Sul de Loures, na [Parte 4]({% post_url 2022-05-25-zonas-urbanas-sem-ferrovia-04-odivelas-leste %}).
 
