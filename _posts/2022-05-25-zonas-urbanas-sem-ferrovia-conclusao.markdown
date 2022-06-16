@@ -3,7 +3,7 @@ layout: post
 title:  "Onde falta metro/ferrovia na Área Metropolitana de Lisboa? (Parte 5 - Conclusão)"
 date:   2022-05-25 11:13:00 +0100
 categories: lisboa mobilidade
-image: AML_distance_to_rail_stations_header_2.png
+image: AML_distance_to_rail_stations_header_1.png
 ---
 
 # Próximos passos

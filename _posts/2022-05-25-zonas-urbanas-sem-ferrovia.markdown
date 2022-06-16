@@ -3,10 +3,8 @@ layout: post
 title:  "Onde falta metro/ferrovia na Área Metropolitana de Lisboa? (Parte 1 - Introdução)"
 date:   2022-05-25 15:13:00 +0100
 categories: lisboa mobilidade
-image: AML_distance_to_rail_stations_header_2.png
+image: AML_distance_to_rail_stations_header_1.png
 ---
-
-![Imagem]({{ site.url }}/assets/img/AML_distance_to_rail_stations_header_2.png)
 
 A mobilidade na Área Metropolitana de Lisboa (AML) tem sido um tema em debate nos últimos anos. Apesar de às vezes o debate estar desnecessariamente incendiado, é positivo ver a preocupação de partidos políticos sobre temas como a [redução da velocidade nas ruas de Lisboa](https://cnnportugal.iol.pt/videos/reducao-dos-limites-de-velocidade-em-lisboa-motiva-debate-aceso-na-camara/628e85480cf2ea4f0a4c6b0c), se a expansão do Metropolitano de Lisboa deve ser [com uma linha circular ou em laço](https://lisboaparapessoas.pt/2021/11/19/metro-lisboa-expansao-linha-circular-camara-governo-pcp-moedas/?doing_wp_cron=1651066237.3754520416259765625000), ou a [resistência da sociedade civil à remoção da ciclovia da Almirante Reis](https://expresso.pt/sociedade/2021-11-30-Mais-de-2500-lisboetas-levam-peticao-a-Assembleia-Municipal-para-travar-fim-da-ciclovia-da-Almirante-Reis-22a9ff45).
 
