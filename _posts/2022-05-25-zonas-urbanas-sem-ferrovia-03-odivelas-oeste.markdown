@@ -3,16 +3,17 @@ layout: post
 title:  "Onde falta metro/ferrovia na Área Metropolitana de Lisboa? (Parte 3 - Odivelas Oeste)"
 date:   2022-05-25 13:13:00 +0100
 categories: lisboa mobilidade
-image: AML_distance_to_rail_stations_header_2.png
+image: AML_distance_to_rail_stations_header_odivelas_oeste.png
 ---
 
 # Odivelas Oeste
-{% include map_odivelas_oeste.html %}
 
 Na [Parte 2]({% post_url 2022-05-25-zonas-urbanas-sem-ferrovia-02-tempo-ate-estacoes %}) olhámos para as zonas de elevada densidade populacional e quão longe a pé estão de estações ferroviárias. Podemos usar esse mapa para analisar em mais detalhe certas partes da AML. A primeira zona sob análise está assinalada no mapa acima a azul. Inclui as seguintes freguesias:
 - Município de Odivelas: Odivelas (freguesia); UF Pontinha e Famões; UF Ramada e Caneças. (UF = União de Freguesias, criadas aquando da reorganização administrativa de 2012)
 - Município da Amadora: Encosta do Sol; Mina de Água.
 - Município de Sintra: Casal de Cambra.
+
+{% include map_odivelas_oeste.html %}
 
 Esta zona tem:
 - Área: 36.97 km2
