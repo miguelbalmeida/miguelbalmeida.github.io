@@ -3,6 +3,7 @@ layout: post
 title:  "Onde falta metro/ferrovia na Área Metropolitana de Lisboa? (Parte 4 - Odivelas Leste e Sul de Loures)"
 date:   2022-05-25 12:13:00 +0100
 categories: lisboa mobilidade
+image: AML_distance_to_rail_stations_header_2.png
 ---
 
 # Odivelas Leste e Sul de Loures

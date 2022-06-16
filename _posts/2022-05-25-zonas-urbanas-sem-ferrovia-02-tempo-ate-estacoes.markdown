@@ -3,6 +3,7 @@ layout: post
 title:  "Onde falta metro/ferrovia na Área Metropolitana de Lisboa? (Parte 2 - Tempo a pé até uma estação)"
 date:   2022-05-25 14:13:00 +0100
 categories: lisboa mobilidade
+image: AML_distance_to_rail_stations_header_2.png
 ---
 
 Na [Parte 1]({% post_url 2022-05-25-zonas-urbanas-sem-ferrovia %}) olhámos para um mapa com a densidade populacional da AML. Agora falta encontrar quais as zonas onde o metro e o comboio não sejam opção prática. Para isso podemos calcular o tempo a pé até à estação ferroviária mais próxima.
