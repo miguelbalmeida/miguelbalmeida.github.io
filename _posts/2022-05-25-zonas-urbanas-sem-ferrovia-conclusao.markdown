@@ -3,6 +3,7 @@ layout: post
 title:  "Onde falta metro/ferrovia na Área Metropolitana de Lisboa? (Parte 5 - Conclusão)"
 date:   2022-05-25 11:13:00 +0100
 categories: lisboa mobilidade
+image: AML_distance_to_rail_stations_header_2.png
 ---
 
 # Próximos passos
@@ -34,6 +35,8 @@ Os tempos de deslocação a pé foram calculados usando o [Open Route Service][o
 O Open Street Map também foi usado para determinar a posição de cada estação ferroviária. Seria possível usar alternativas como o Google Maps, e a sua API de direcções, mas preferi optar por dados e programas abertos que qualquer pessoa pode consultar e até corrigir. Além disso, a API do Google Maps é paga.
 
 O tratamento de dados foi feito utilizando um computador pessoal e software Python. A maioria dos cálculos numéricos foram feitos com [geopandas](https://geopandas.org/en/stable/) e os mapas foram feitos usando [Kepler.gl](https://kepler.gl/), um software aberto de visualização de dados geográficos feito pela Uber.
+
+O blogue é criado usando [Github Pages](https://pages.github.com/) e [Jekyll](https://jekyllrb.com/). O design gráfico é adaptado da excelente configuração [Millenial](https://jekyllthemes.io/theme/millennial) feita por Paul Le.
 
 [gsdg]: https://globaldesigningcities.org/wp-content/uploads/guides/global-street-design-guide.pdf
 [metro2009]: https://pt.wikipedia.org/wiki/Metropolitano_de_Lisboa#Projetos_Anteriormente_Apresentados
