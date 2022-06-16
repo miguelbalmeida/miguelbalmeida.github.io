@@ -3,7 +3,7 @@ layout: post
 title:  "Onde falta metro/ferrovia na Área Metropolitana de Lisboa? (Parte 3 - Odivelas Oeste)"
 date:   2022-05-25 13:13:00 +0100
 categories: lisboa mobilidade
-image: AML_distance_to_rail_stations_header_odivelas_oeste.png
+image: AML_distance_to_rail_stations_odivelas_oeste.png
 ---
 
 # Odivelas Oeste
