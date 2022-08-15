@@ -55,7 +55,7 @@ Para calcular a densidade populacional segue-se este processo:
 
 O mapa que se segue mostra a densidade populacional num mapa 3D da AML. Quanto maior a altura de um quarteirão, maior a densidade populacional desse quarteirão. Pode fazer *zoom* com a roda do rato, clicar com o botão esquerdo para mover o mapa, ou com o botão direito para o rodar. Se passar o ponteiro do rato por cima de um quarteirão verá informações detalhadas sobre esse quarteirão - são os dados dos Censos.
 
-{% include aml_population_density.html %}
+{% include aml_population_density_hoods.html %}
 
 Sabendo onde residem mais ou menos pessoas, podemos passar ao passo seguinte: incluir no mapa informação sobre ser fácil ou difícil usar modos ferroviários. Esse é o assunto da [Parte 2]({% post_url 2022-05-25-zonas-urbanas-sem-ferrovia-02-tempo-ate-estacoes %}).
 
