@@ -13,7 +13,7 @@ Na [Parte 2]({% post_url 2022-05-25-zonas-urbanas-sem-ferrovia-02-tempo-ate-esta
 - Município da Amadora: Encosta do Sol; Mina de Água.
 - Município de Sintra: Casal de Cambra.
 
-{% include map_odivelas_oeste.html %}
+{% include map_odivelas_oeste_hoods.html %}
 
 Esta zona tem:
 - Área: 36.97 km2

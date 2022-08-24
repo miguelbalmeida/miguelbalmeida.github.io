@@ -19,14 +19,14 @@ A análise pode ser também estendida a outras partes do país, nomeadamente a �
 Seria igualmente importante analisar o desempenho de outras partes do sistema de mobilidade da AML, em particular o desempenho dos autocarros. Ao contrário dos sistemas ferroviários aqui analisados, os autocarros são geralmente vulneráveis ao trânsito. Mesmo que existam carreiras de autocarro a servir certas zonas, isso não significa que esse serviço tenha a frequência, pontualidade e rapidez necessárias para ser competitivo com o uso do automóvel privado.
 
 # Detalhes técnicos
-Seria possível escolher à mão os quarteirões um a um para incluir nestas zonas, o que permitiria delimitar zonas mais densas ou com maior percentagem de população longe de estações. Optei ainda assim por usar freguesias porque:
+Seria possível escolher à mão os bairros um a um para incluir nestas zonas, o que permitiria delimitar zonas mais densas ou com maior percentagem de população longe de estações. Optei ainda assim por usar freguesias porque:
 - É mais simples de explicar qual a área sob análise.
 - Permite mais facilmente a quem lê saber quais os órgãos políticos que governam essa área (as Juntas de Freguesia e Câmaras Municipais.correspondentes)
 - É menos arbitrário.
 
-Seria também possível corrigir, para as freguesias que incluem "quarteirões" sobre o rio Tejo, os valores da área respectiva. Optei por não o fazer pelas seguintes razões:
-- Alguns quarteirões incluem grandes áreas sobre o rio mas também algumas áreas terrestres, e não é possível separar uma da outra nos dados dos Censos.
-- O mesmo raciocínio justificaria outras correcções, como por exemplo retirar o quarteirão do aeroporto de Lisboa da freguesia dos Olivais. Se fossemos por aí, haveria um grande número de correcções algo arbitrárias a fazer.
+Seria também possível corrigir, para as freguesias que incluem "bairros" sobre o rio Tejo, os valores da área respectiva. Optei por não o fazer pelas seguintes razões:
+- Alguns bairros incluem grandes áreas sobre o rio mas também algumas áreas terrestres, e não é possível separar uma da outra nos dados dos Censos.
+- O mesmo raciocínio justificaria outras correcções, como por exemplo retirar a zona do aeroporto de Lisboa da freguesia dos Olivais. Se fôssemos por aí, haveria um grande número de correcções algo arbitrárias a fazer.
 
 Os dados provisórios dos Censos 2021 foram obtidos através do [site do INE](http://mapas.ine.pt/download/index2021.phtml).
 

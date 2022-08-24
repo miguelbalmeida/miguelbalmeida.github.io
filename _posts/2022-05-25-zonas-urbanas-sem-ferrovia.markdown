@@ -41,21 +41,21 @@ Quanto aos autocarros, podem ter a vantagem de um menor investimento inicial e d
 Apesar destas vantagens do modo ferroviário dentro de áreas metropolitanas, não deixa de ser um modo que exige investimento elevado à cabeça, especialmente se for subterrâneo, e cujo traçado é difícil de mudar. É, portanto, importante decidir bem por onde ele deve passar, para que o investimento seja justificado.
 
 # Densidade populacional na AML
-Olhemos então para a densidade populacional (ou seja, residencial) dentro da AML. Não podemos ter estações ferroviárias em cada quarteirão, pelo que faz sentido tê-las nas zonas onde haja procura elevada, ou onde se antecipa que haja essa procura no futuro.
+Olhemos então para a densidade populacional (ou seja, residencial) dentro da AML. Não podemos ter estações ferroviárias em cada esquina, pelo que faz sentido tê-las nas zonas onde haja procura elevada, ou onde se antecipa que haja essa procura no futuro.
 
 Porquê densidade *populacional*? Os locais de trabalho e de estudo também geram viagens, certo? Certíssimo. A escolha de usar a densidade populacional é apenas por pragmatismo. 
 Tanto quanto sei não há, em Portugal, dados abertos sobre os percursos feitos pelas pessoas nas suas deslocações quotidianas. Também não conheço nenhuns dados sobre a densidade de postos de trabalho, que seria importante para esta análise.
 
-No entanto, nos Censos de 2021, onde já estão disponíveis [os dados provisórios](http://mapas.ine.pt/download/index2021.phtml), temos informação de número de residentes ao nível do quarteirão. Podemos analisar a densidade populacional de cada quarteirão a partir destes dados, e procurar zonas de elevada densidade que estejam longe de estações de metro e comboio.
+No entanto, nos Censos de 2021, onde já estão disponíveis [os dados provisórios](http://mapas.ine.pt/download/index2021.phtml), temos informação de número de residentes ao nível do quarteirão e do bairro. Podemos analisar a densidade populacional de cada bairro a partir destes dados, e procurar zonas de elevada densidade que estejam longe de estações de metro e comboio.
 
 Para calcular a densidade populacional segue-se este processo:
-- Os dados provisórios dos Censos 2021 indicam, para cada quarteirão, quantas pessoas lá residem.
-- Para cada um dos 25915 quarteirões da AML, os Censos também nos indicam a zona do mapa que ocupam, permitindo assim calcular a área de cada quarteirão em metros quadrados.
-- Usando a população residente em cada quarteirão e a sua área, podemos calcular a densidade populacional de cada quarteirão.
+- Os dados provisórios dos Censos 2021 indicam, para cada bairro, quantas pessoas lá residem.
+- Para cada um dos 2399 bairros da AML, os Censos também nos indicam a zona do mapa que ocupam, permitindo assim calcular a área de cada bairro em metros quadrados.
+- Usando a população residente em cada bairro e a sua área, podemos calcular a densidade populacional de cada bairro.
 
-O mapa que se segue mostra a densidade populacional num mapa 3D da AML. Quanto maior a altura de um quarteirão, maior a densidade populacional desse quarteirão. Pode fazer *zoom* com a roda do rato, clicar com o botão esquerdo para mover o mapa, ou com o botão direito para o rodar. Se passar o ponteiro do rato por cima de um quarteirão verá informações detalhadas sobre esse quarteirão - são os dados dos Censos.
+O mapa que se segue mostra a densidade populacional num mapa 3D da AML. Quanto maior a altura de um bairro, maior a densidade populacional desse bairro. Pode fazer *zoom* com a roda do rato, clicar com o botão esquerdo para mover o mapa, ou com o botão direito para o rodar. Se passar o ponteiro do rato por cima de um bairro verá informações detalhadas sobre esse bairro - são os dados dos Censos.
 
-{% include aml_population_density.html %}
+{% include aml_population_density_hoods.html %}
 
 Sabendo onde residem mais ou menos pessoas, podemos passar ao passo seguinte: incluir no mapa informação sobre ser fácil ou difícil usar modos ferroviários. Esse é o assunto da [Parte 2]({% post_url 2022-05-25-zonas-urbanas-sem-ferrovia-02-tempo-ate-estacoes %}).
 

@@ -7,7 +7,7 @@ image: AML_distance_to_rail_stations_odivelas_leste_e_loures.png
 ---
 
 # Odivelas Leste e Sul de Loures
-{% include map_odivelas_leste_e_loures.html %}
+{% include map_odivelas_leste_e_loures_hoods.html %}
 
 Na [Parte 3]({% post_url 2022-05-25-zonas-urbanas-sem-ferrovia-03-odivelas-oeste %}) olhámos para a zona Oeste do município de Odivelas. Olhemos agora para a zona Leste desse município, juntando também a parte Sul do município de Loures, já que se nota alguma continuidade na densidade populacional entre estes dois municípios.
 
